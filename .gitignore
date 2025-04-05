@@ -1,0 +1,6 @@
+.direnv
+dist
+dist.tar.gz
+.env
+vendor
+__pycache__
